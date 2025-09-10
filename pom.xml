@@ -16,7 +16,6 @@
              <!-- ADD JAVA SEVLET API -->
         <!-- https://mvnrepository.com/artifact/javax.servlet/servlet-api -->
         
-
         <!-- JSTL dependency okay -->
         <dependency>
             <groupId>jstl</groupId> 
