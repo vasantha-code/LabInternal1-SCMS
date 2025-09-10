@@ -13,12 +13,9 @@
         <maven.compiler.source>1.8</maven.compiler.source>
         <maven.compiler.target>1.7</maven.compiler.target>
     <dependencies>
-
-        <dependency>
-            <groupId>javax.servelt</groupId>
-            <artifactId>javax.servlet-api</artifactId>
-            <version>3.1.0</version>
-        </dependency>
+             <!-- ADD JAVA SEVLET API -->
+        <!-- https://mvnrepository.com/artifact/javax.servlet/servlet-api -->
+        
 
         <!-- JSTL dependency okay -->
         <dependency>
